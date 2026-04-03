@@ -1,0 +1,3 @@
+C:/Users/ASUS/CLionProjects/NotSoSoundy/build/CMakeFiles/NotSoSoundy.dir
+C:/Users/ASUS/CLionProjects/NotSoSoundy/build/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/CLionProjects/NotSoSoundy/build/CMakeFiles/rebuild_cache.dir
